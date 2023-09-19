@@ -1,0 +1,739 @@
+2023-08-09 13:59:16,835 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 14:03:12,536 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 14:16:15,073 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 14:16:16,633 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 14:32:00,830 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 14:32:02,208 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 14:34:59,773 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 14:35:01,568 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 14:36:10,007 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 14:36:12,178 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 15:23:52,534 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(29) - registrate_builder
+2023-08-09 17:21:45,521 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 17:21:56,174 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 17:48:42,558 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(29) - registrate_builder
+2023-08-09 18:19:16,740 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 19:13:31,207 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 19:17:41,812 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 19:17:44,313 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 19:20:48,911 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 19:20:51,411 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 19:31:27,192 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 19:31:29,484 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 19:32:31,119 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-09 19:36:33,022 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 19:36:47,341 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 19:40:23,997 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 19:40:26,621 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 19:42:03,663 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 19:42:05,938 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 19:42:16,728 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 19:42:19,125 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 19:45:17,005 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 19:45:19,347 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 19:45:19,377 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 19:45:32,656 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 19:46:03,248 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-09 19:48:22,255 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 19:48:24,379 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 19:48:35,255 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-09 20:11:59,782 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 20:12:08,264 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 20:12:15,015 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-09 20:24:04,176 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 20:24:06,185 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 20:24:13,182 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 20:24:15,229 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 20:24:44,278 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-09 20:34:36,833 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 20:34:41,171 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 20:42:31,917 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 20:42:33,377 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 20:42:49,382 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 20:42:51,475 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 20:42:59,450 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-09 20:46:29,956 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 20:46:32,959 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 20:46:41,255 - [INFO] - app.handlers.start - (start.py).start(25) - 0
+2023-08-09 20:56:25,391 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 20:56:27,604 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 20:56:40,313 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 20:56:42,618 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 20:56:46,640 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-09 21:00:05,361 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 21:00:07,858 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 21:00:18,391 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-09 21:11:41,840 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 21:11:53,595 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 21:12:05,864 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-09 21:13:42,635 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 21:13:45,615 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 21:13:58,299 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-09 21:14:15,329 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 21:14:21,557 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 21:14:28,852 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-09 21:15:21,460 - [INFO] - app.forms.registrate_user - (registrate_user.py).get_data_done(279) - {"id": 6589042093, "is_bot": true, "first_name": "Биржа Строителей", "username": "builders_exchange_bot"}
+2023-08-09 21:19:36,560 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 21:19:39,817 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 21:19:56,187 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(33) - {"id": "3159169850647378422", "from": {"id": 735551549, "is_bot": false, "first_name": "Dimonka", "last_name": "Limonka", "username": "MORRAS_DG", "language_code": "en"}, "message": {"message_id": 3155, "from": {"id": 6589042093, "is_bot": true, "first_name": "Биржа Строителей", "username": "builders_exchange_bot"}, "chat": {"id": 735551549, "first_name": "Dimonka", "last_name": "Limonka", "username": "MORRAS_DG", "type": "private"}, "date": 1691601595, "text": "Пройдите обязательную регистрацию", "reply_markup": {"inline_keyboard": [[{"text": "Зарегистрироваться", "callback_data": "registrate_builder"}]]}}, "chat_instance": "-8812455492991095365", "data": "registrate_builder"}
+2023-08-09 21:19:56,404 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(38) - registrate_builder
+2023-08-09 21:28:54,228 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 21:29:13,354 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 21:29:29,570 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-09 21:52:45,166 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 22:10:58,640 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 22:13:34,732 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 22:13:41,567 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 22:16:27,590 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_customer
+2023-08-09 22:25:53,445 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-09 22:27:34,698 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-09 22:27:41,145 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_customer
+2023-08-10 11:19:42,828 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 11:19:53,812 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 13:59:48,633 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 14:36:31,739 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 14:53:34,975 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-10 17:45:05,959 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 17:46:29,660 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 17:46:46,670 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(36) - registrate_builder
+2023-08-10 17:50:58,036 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(36) - registrate_builder
+2023-08-10 17:53:14,543 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 17:53:27,061 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 17:53:33,089 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(36) - registrate_builder
+2023-08-10 18:11:17,869 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 18:11:20,742 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 18:11:29,845 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(36) - registrate_builder
+2023-08-10 18:47:10,726 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 18:48:10,389 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 18:48:12,114 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 18:48:42,608 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-10 18:51:11,696 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 18:51:15,392 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 18:51:21,183 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-10 19:03:56,553 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:04:08,019 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 19:04:24,188 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-10 19:09:37,493 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:09:38,767 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 19:10:32,535 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:10:35,905 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 19:10:41,538 - [INFO] - app.forms.choose_app_or_builder - (choose_app_or_builder.py).start_choosing(23) - {"id": "3159169851314668076", "from": {"id": 735551549, "is_bot": false, "first_name": "Dimonka", "last_name": "Limonka", "username": "MORRAS_DG", "language_code": "en"}, "message": {"message_id": 3546, "from": {"id": 6589042093, "is_bot": true, "first_name": "Биржа Строителей", "username": "builders_exchange_bot"}, "chat": {"id": 735551549, "first_name": "Dimonka", "last_name": "Limonka", "username": "MORRAS_DG", "type": "private"}, "date": 1691680240, "text": "Нажмите кпопку чтобы ознакомиться со списком заказчиков", "reply_markup": {"inline_keyboard": [[{"text": "Найти клиентов", "callback_data": "choose_type_app"}]]}}, "chat_instance": "-8812455492991095365", "data": "choose_type_app"}
+2023-08-10 19:13:35,768 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:13:39,511 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 19:13:49,287 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:14:05,713 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 19:14:15,659 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-10 19:18:46,563 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:18:55,334 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 19:19:15,350 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:19:25,526 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 19:20:00,023 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:28:16,068 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 19:35:44,415 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:36:16,365 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:36:19,504 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 19:38:16,041 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:38:21,476 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 19:49:33,144 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:50:12,462 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:56:32,797 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 19:59:00,173 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 19:59:03,429 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 20:04:47,182 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 20:04:48,522 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 20:06:51,442 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 20:06:52,633 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 20:06:54,474 - [INFO] - app.forms.choose_app_or_builder - (choose_app_or_builder.py).start_choosing(23) - {"message_id": 3628, "from": {"id": 735551549, "is_bot": false, "first_name": "Dimonka", "last_name": "Limonka", "username": "MORRAS_DG", "language_code": "en"}, "chat": {"id": 735551549, "first_name": "Dimonka", "last_name": "Limonka", "username": "MORRAS_DG", "type": "private"}, "date": 1691683614, "text": "Выбрать исполнителя"}
+2023-08-10 20:07:52,800 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 20:07:54,586 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 20:08:58,176 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 20:08:59,815 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 20:12:20,823 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 20:12:22,076 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 20:16:12,153 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 20:16:16,969 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 20:17:51,846 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 20:17:53,226 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-10 20:18:42,602 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-10 20:18:43,922 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-11 18:52:52,783 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-11 18:53:20,591 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-11 18:53:52,497 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-11 18:54:02,577 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-11 21:02:23,971 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-11 21:02:29,127 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-11 22:19:08,122 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-11 22:24:58,613 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-11 22:25:00,125 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-11 22:25:36,067 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-11 22:27:30,433 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-11 22:27:32,114 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-11 22:27:38,732 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-11 22:37:03,722 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-11 22:41:11,623 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-12 11:40:00,851 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-12 11:40:22,087 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-12 11:40:54,963 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-12 19:29:26,191 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-12 19:29:58,894 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-12 19:30:13,939 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-12 19:30:31,531 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-12 19:35:16,364 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-12 19:35:20,038 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-12 19:35:27,353 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-12 19:35:48,344 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(133) - FSMContextProxy state = <default>, data = {'category_list': ['покраска мебели', 'реставрация', 'отделка', 'кровельные работы', 'уборка', 'косметический ремонт', 'кухни']}
+2023-08-12 19:35:58,186 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(141) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Втвтвттклк', 'PHONE': '89831448334', 'EMAIL': 'Djdjej@dndnnd.ru', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО'}
+2023-08-12 19:39:10,182 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-12 19:39:12,322 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-12 19:50:03,980 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(37) - registrate_builder
+2023-08-12 19:50:21,084 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(134) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Dbdbd', 'PHONE': '89831448834', 'EMAIL': 'Bdbdb@jdje.dk', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': ['покраска мебели', 'реставрация', 'отделка', 'кровельные работы', 'уборка', 'косметический ремонт', 'кухни']}
+2023-08-12 19:50:27,024 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(142) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Dbdbd', 'PHONE': '89831448834', 'EMAIL': 'Bdbdb@jdje.dk', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': ['покраска мебели', 'реставрация', 'отделка', 'кровельные работы', 'уборка', 'косметический ремонт', 'кухни']}
+2023-08-12 19:50:48,225 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(142) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Dbdbd', 'PHONE': '89831448834', 'EMAIL': 'Bdbdb@jdje.dk', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': ['покраска мебели', 'реставрация', 'отделка', 'кровельные работы', 'уборка', 'косметический ремонт', 'кухни']}
+2023-08-12 19:50:55,393 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(142) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Dbdbd', 'PHONE': '89831448834', 'EMAIL': 'Bdbdb@jdje.dk', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': ['реставрация', 'отделка', 'кровельные работы', 'уборка', 'косметический ремонт', 'кухни'], 'category': 'покраска мебели', 'my_categories': ['покраска мебели']}
+2023-08-14 14:33:26,353 - [INFO] - app.bot - (bot.py).on_startup(15) - {"success":true,"federal_districts":["Южный","Сибирский","Дальневосточный","Северо-Западный","Приволжский","Центральный","Северо-Кавказский","Уральский"]}
+2023-08-14 14:33:26,355 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 14:35:20,016 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 14:35:22,166 - [INFO] - app.bot - (bot.py).on_startup(15) - ['Южный', 'Сибирский', 'Дальневосточный', 'Северо-Западный', 'Приволжский', 'Центральный', 'Северо-Кавказский', 'Уральский']
+2023-08-14 14:35:22,168 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 14:35:24,211 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 14:38:05,802 - [INFO] - app.bot - (bot.py).on_startup(15) - {'name': 'Forbidden', 'message': 'You are not allowed to access this page', 'code': 0, 'status': 403}
+2023-08-14 14:38:05,803 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 14:38:12,499 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 14:38:33,037 - [INFO] - app.bot - (bot.py).on_startup(15) - {'name': 'Forbidden', 'message': 'You are not allowed to access this page', 'code': 0, 'status': 403}
+2023-08-14 14:38:33,039 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 14:38:37,205 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 14:41:06,021 - [INFO] - app.bot - (bot.py).on_startup(15) - {'name': 'Forbidden', 'message': 'You are not allowed to access this page', 'code': 0, 'status': 403}
+2023-08-14 14:41:06,022 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 14:42:02,348 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 14:42:09,305 - [INFO] - app.bot - (bot.py).on_startup(15) - {'name': 'Forbidden', 'message': 'You are not allowed to access this page', 'code': 0, 'status': 403}
+2023-08-14 14:42:09,306 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 14:42:25,954 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 14:42:31,937 - [INFO] - app.bot - (bot.py).on_startup(15) - {'name': 'Forbidden', 'message': 'You are not allowed to access this page', 'code': 0, 'status': 403}
+2023-08-14 14:42:31,939 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 14:43:45,277 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 14:43:51,301 - [INFO] - app.bot - (bot.py).on_startup(15) - {'success': True, 'regions': [{'id': '45', 'name': 'Курганская', 'type': 'обл', 'name_with_type': 'Курганская обл', 'federal_district': 'Уральский', 'kladr_id': '4500000000000', 'fias_id': '4a3d970f-520e-46b9-b16c-50d4ca7535a8', 'okato': '37000000000', 'oktmo': '37000000', 'tax_office': '4500', 'postal_code': '641000', 'iso_code': 'RU-KGN', 'timezone': 'UTC+5', 'geoname_code': 'RU.40', 'geoname_id': '1501312', 'geoname_name': 'Kurgan Oblast'}, {'id': '66', 'name': 'Свердловская', 'type': 'обл', 'name_with_type': 'Свердловская обл', 'federal_district': 'Уральский', 'kladr_id': '6600000000000', 'fias_id': '92b30014-4d52-4e2e-892d-928142b924bf', 'okato': '65000000000', 'oktmo': '65000000', 'tax_office': '6600', 'postal_code': '620000', 'iso_code': 'RU-SVE', 'timezone': 'UTC+5', 'geoname_code': 'RU.71', 'geoname_id': '1490542', 'geoname_name': 'Sverdlovsk'}, {'id': '72', 'name': 'Тюменская', 'type': 'обл', 'name_with_type': 'Тюменская обл', 'federal_district': 'Уральский', 'kladr_id': '7200000000000', 'fias_id': '54049357-326d-4b8f-b224-3c6dc25d6dd3', 'okato': '71000000000', 'oktmo': '71000000', 'tax_office': '7200', 'postal_code': '', 'iso_code': 'RU-TYU', 'timezone': 'UTC+5', 'geoname_code': 'RU.78', 'geoname_id': '1488747', 'geoname_name': 'Tyumen Oblast'}, {'id': '74', 'name': 'Челябинская', 'type': 'обл', 'name_with_type': 'Челябинская обл', 'federal_district': 'Уральский', 'kladr_id': '7400000000000', 'fias_id': '27eb7c10-a234-44da-a59c-8b1f864966de', 'okato': '75000000000', 'oktmo': '75000000', 'tax_office': '7400', 'postal_code': '454000', 'iso_code': 'RU-CHE', 'timezone': 'UTC+5', 'geoname_code': 'RU.13', 'geoname_id': '1508290', 'geoname_name': 'Chelyabinsk'}, {'id': '81', 'name': 'Ханты-Мансийский Автономный округ - Югра', 'type': 'АО', 'name_with_type': 'Ханты-Мансийский Автономный округ - Югра АО', 'federal_district': 'Уральский', 'kladr_id': '8600000000000', 'fias_id': 'd66e5325-3a25-4d29-ba86-4ca351d9704b', 'okato': '71100000000', 'oktmo': '71800000', 'tax_office': '8600', 'postal_code': '', 'iso_code': 'RU-KHM', 'timezone': 'UTC+5', 'geoname_code': 'RU.32', 'geoname_id': '1503773', 'geoname_name': 'Khanty-Mansia'}, {'id': '83', 'name': 'Ямало-Ненецкий', 'type': 'АО', 'name_with_type': 'Ямало-Ненецкий АО', 'federal_district': 'Уральский', 'kladr_id': '8900000000000', 'fias_id': '826fa834-3ee8-404f-bdbc-13a5221cfb6e', 'okato': '71140000000', 'oktmo': '71900000', 'tax_office': '8900', 'postal_code': '629000', 'iso_code': 'RU-YAN', 'timezone': 'UTC+5', 'geoname_code': 'RU.87', 'geoname_id': '1486462', 'geoname_name': 'Yamalo-Nenets'}]}
+2023-08-14 14:43:51,303 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 14:53:13,780 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 14:53:22,795 - [INFO] - app.bot - (bot.py).on_startup(15) - {'success': True, 'cities': [{'id': '1099', 'address': 'Ямало-Ненецкий АО, г Губкинский', 'postal_code': '629830', 'country': 'Россия', 'federal_district': 'Уральский', 'region_type': 'АО', 'region': 'Ямало-Ненецкий', 'area_type': '', 'area': '', 'city_type': 'г', 'city': 'Губкинский', 'settlement_type': '', 'settlement': '', 'kladr_id': '8900000200000', 'fias_id': '0cb9e3a5-20fa-4248-8c1d-b31d5ce7f691', 'fias_level': '4', 'capital_marker': '0', 'okato': '71172000000', 'oktmo': '71952000', 'tax_office': '8911', 'timezone': 'UTC+5', 'geo_lat': '64.4458', 'geo_lon': '76.4713', 'population': '23340', 'foundation_year': '1986'}, {'id': '1100', 'address': 'Ямало-Ненецкий АО, г Лабытнанги', 'postal_code': '629400', 'country': 'Россия', 'federal_district': 'Уральский', 'region_type': 'АО', 'region': 'Ямало-Ненецкий', 'area_type': '', 'area': '', 'city_type': 'г', 'city': 'Лабытнанги', 'settlement_type': '', 'settlement': '', 'kladr_id': '8900000300000', 'fias_id': '6552fa92-269f-4b6a-bee5-fe9204463d99', 'fias_level': '4', 'capital_marker': '0', 'okato': '71173000000', 'oktmo': '71953000', 'tax_office': '8901', 'timezone': 'UTC+5', 'geo_lat': '66.6593', 'geo_lon': '66.3883', 'population': '26948', 'foundation_year': '1890'}, {'id': '1101', 'address': 'Ямало-Ненецкий АО, г Муравленко', 'postal_code': '629601', 'country': 'Россия', 'federal_district': 'Уральский', 'region_type': 'АО', 'region': 'Ямало-Ненецкий', 'area_type': '', 'area': '', 'city_type': 'г', 'city': 'Муравленко', 'settlement_type': '', 'settlement': '', 'kladr_id': '8900000400000', 'fias_id': '9d4ebe8d-29d8-4ddc-882d-75a5c5aec652', 'fias_level': '4', 'capital_marker': '0', 'okato': '71175000000', 'oktmo': '71955000', 'tax_office': '8905', 'timezone': 'UTC+5', 'geo_lat': '63.7941', 'geo_lon': '74.4949', 'population': '33401', 'foundation_year': '1984'}, {'id': '1102', 'address': 'Ямало-Ненецкий АО, г Надым', 'postal_code': '629734', 'country': 'Россия', 'federal_district': 'Уральский', 'region_type': 'АО', 'region': 'Ямало-Ненецкий', 'area_type': '', 'area': '', 'city_type': 'г', 'city': 'Надым', 'settlement_type': '', 'settlement': '', 'kladr_id': '8900000500000', 'fias_id': '24a3f6a2-5994-4ede-90d4-dc7fe64418b8', 'fias_level': '4', 'capital_marker': '0', 'okato': '71174000000', 'oktmo': '71936000', 'tax_office': '8903', 'timezone': 'UTC+5', 'geo_lat': '65.5378', 'geo_lon': '72.5183', 'population': '46550', 'foundation_year': '1597'}, {'id': '1103', 'address': 'Ямало-Ненецкий АО, г Новый Уренгой', 'postal_code': '629300', 'country': 'Россия', 'federal_district': 'Уральский', 'region_type': 'АО', 'region': 'Ямало-Ненецкий', 'area_type': '', 'area': '', 'city_type': 'г', 'city': 'Новый Уренгой', 'settlement_type': '', 'settlement': '', 'kladr_id': '8900000600000', 'fias_id': '4136d0c1-3ff7-44c0-aa30-fa2e7eb96ef7', 'fias_level': '4', 'capital_marker': '0', 'okato': '71176000000', 'oktmo': '71956000', 'tax_office': '8904', 'timezone': 'UTC+5', 'geo_lat': '66.0839', 'geo_lon': '76.681', 'population': '104144', 'foundation_year': '1975'}, {'id': '1104', 'address': 'Ямало-Ненецкий АО, г Ноябрьск', 'postal_code': '629800', 'country': 'Россия', 'federal_district': 'Уральский', 'region_type': 'АО', 'region': 'Ямало-Ненецкий', 'area_type': '', 'area': '', 'city_type': 'г', 'city': 'Ноябрьск', 'settlement_type': '', 'settlement': '', 'kladr_id': '8900000700000', 'fias_id': '131c6e49-9bc5-484d-b65a-ee7f5d250418', 'fias_level': '4', 'capital_marker': '0', 'okato': '71178000000', 'oktmo': '71958000', 'tax_office': '8905', 'timezone': 'UTC+5', 'geo_lat': '63.2018', 'geo_lon': '75.4511', 'population': '110572', 'foundation_year': '1976'}, {'id': '1105', 'address': 'г Салехард', 'postal_code': '629000', 'country': 'Россия', 'federal_district': 'Уральский', 'region_type': 'АО', 'region': 'Ямало-Ненецкий', 'area_type': '', 'area': '', 'city_type': 'г', 'city': 'Салехард', 'settlement_type': '', 'settlement': '', 'kladr_id': '8900000100000', 'fias_id': '0c1b7f05-9fd9-4ec9-a2cc-5ee2799be1e6', 'fias_level': '4', 'capital_marker': '2', 'okato': '71171000000', 'oktmo': '71951000', 'tax_office': '8901', 'timezone': 'UTC+5', 'geo_lat': '66.5492', 'geo_lon': '66.6085', 'population': '42494', 'foundation_year': '1595'}, {'id': '1106', 'address': 'Ямало-Ненецкий АО, г Тарко-Сале', 'postal_code': '629850', 'country': 'Россия', 'federal_district': 'Уральский', 'region_type': 'АО', 'region': 'Ямало-Ненецкий', 'area_type': 'р-н', 'area': 'Пуровский', 'city_type': 'г', 'city': 'Тарко-Сале', 'settlement_type': '', 'settlement': '', 'kladr_id': '8900400100000', 'fias_id': 'b998fcc0-d770-4754-9133-d669a2b2ba5d', 'fias_level': '4', 'capital_marker': '1', 'okato': '71160605000', 'oktmo': '71940000', 'tax_office': '8911', 'timezone': 'UTC+5', 'geo_lat': '64.9119', 'geo_lon': '77.761', 'population': '20372', 'foundation_year': '1932'}]}
+2023-08-14 14:53:22,797 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 15:01:11,203 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 15:01:34,529 - [INFO] - app.bot - (bot.py).on_startup(15) - ['region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities']
+2023-08-14 15:01:34,531 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 15:04:52,291 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 15:05:00,003 - [INFO] - app.bot - (bot.py).on_startup(15) - ['region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities']
+2023-08-14 15:05:00,005 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 15:05:06,925 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 15:05:34,555 - [INFO] - app.bot - (bot.py).on_startup(15) - ['region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities', 'region_name', 'region_kladr_id', 'region_cities']
+2023-08-14 15:05:34,556 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 15:06:27,651 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 15:06:36,951 - [INFO] - app.bot - (bot.py).on_startup(15) - [{'region_name': 'Курганская обл', 'region_kladr_id': '4500000000000', 'region_cities': [{'city_name': 'Далматово', 'city_kladr_id': '4500500100000'}, {'city_name': 'Катайск', 'city_kladr_id': '4500800100000'}, {'city_name': 'Курган', 'city_kladr_id': '4500000100000'}, {'city_name': 'Куртамыш', 'city_kladr_id': '4501000100000'}, {'city_name': 'Макушино', 'city_kladr_id': '4501200100000'}, {'city_name': 'Петухово', 'city_kladr_id': '4501500100000'}, {'city_name': 'Шадринск', 'city_kladr_id': '4500000200000'}, {'city_name': 'Шумиха', 'city_kladr_id': '4502300100000'}, {'city_name': 'Щучье', 'city_kladr_id': '4502400100000'}]}, {'region_name': 'Свердловская обл', 'region_kladr_id': '6600000000000', 'region_cities': [{'city_name': 'Алапаевск', 'city_kladr_id': '6600002400000'}, {'city_name': 'Арамиль', 'city_kladr_id': '6602500200000'}, {'city_name': 'Артемовский', 'city_kladr_id': '6600300100000'}, {'city_name': 'Асбест', 'city_kladr_id': '6600000200000'}, {'city_name': 'Березовский', 'city_kladr_id': '6600000300000'}, {'city_name': 'Богданович', 'city_kladr_id': '6600800100000'}, {'city_name': 'Верхний Тагил', 'city_kladr_id': '6600003700000'}, {'city_name': 'Верхняя Пышма', 'city_kladr_id': '6600000400000'}, {'city_name': 'Верхняя Салда', 'city_kladr_id': '6600004500000'}, {'city_name': 'Верхняя Тура', 'city_kladr_id': '6600004000000'}, {'city_name': 'Верхотурье', 'city_kladr_id': '6601000100000'}, {'city_name': 'Волчанск', 'city_kladr_id': '6600003900000'}, {'city_name': 'Дегтярск', 'city_kladr_id': '6600004100000'}, {'city_name': 'Екатеринбург', 'city_kladr_id': '6600000100000'}, {'city_name': 'Заречный', 'city_kladr_id': '6600000500000'}, {'city_name': 'Ивдель', 'city_kladr_id': '6600000600000'}, {'city_name': 'Ирбит', 'city_kladr_id': '6600002900000'}, {'city_name': 'Каменск-Уральский', 'city_kladr_id': '6600002200000'}, {'city_name': 'Камышлов', 'city_kladr_id': '6600003000000'}, {'city_name': 'Карпинск', 'city_kladr_id': '6600000700000'}, {'city_name': 'Качканар', 'city_kladr_id': '6600000800000'}, {'city_name': 'Кировград', 'city_kladr_id': '6600000900000'}, {'city_name': 'Краснотурьинск', 'city_kladr_id': '6600001000000'}, {'city_name': 'Красноуральск', 'city_kladr_id': '6600001100000'}, {'city_name': 'Красноуфимск', 'city_kladr_id': '6600003100000'}, {'city_name': 'Кушва', 'city_kladr_id': '6600001200000'}, {'city_name': 'Лесной', 'city_kladr_id': '6600001300000'}, {'city_name': 'Михайловск', 'city_kladr_id': '6601700200000'}, {'city_name': 'Невьянск', 'city_kladr_id': '6600004300000'}, {'city_name': 'Нижние Серги', 'city_kladr_id': '6601700100000'}, {'city_name': 'Нижний Тагил', 'city_kladr_id': '6600002300000'}, {'city_name': 'Нижняя Салда', 'city_kladr_id': '6600002700000'}, {'city_name': 'Нижняя Тура', 'city_kladr_id': '6600001400000'}, {'city_name': 'Новая Ляля', 'city_kladr_id': '6601800100000'}, {'city_name': 'Новоуральск', 'city_kladr_id': '6600001500000'}, {'city_name': 'Первоуральск', 'city_kladr_id': '6600001600000'}, {'city_name': 'Полевской', 'city_kladr_id': '6600001700000'}, {'city_name': 'Ревда', 'city_kladr_id': '6600001800000'}, {'city_name': 'Реж', 'city_kladr_id': '6602100100000'}, {'city_name': 'Североуральск', 'city_kladr_id': '6600002100000'}, {'city_name': 'Серов', 'city_kladr_id': '6600003400000'}, {'city_name': 'Среднеуральск', 'city_kladr_id': '6600003800000'}, {'city_name': 'Сухой Лог', 'city_kladr_id': '6602400100000'}, {'city_name': 'Сысерть', 'city_kladr_id': '6602500100000'}, {'city_name': 'Тавда', 'city_kladr_id': '6600004200000'}, {'city_name': 'Талица', 'city_kladr_id': '6602800100000'}, {'city_name': 'Туринск', 'city_kladr_id': '6603000100000'}]}, {'region_name': 'Тюменская обл', 'region_kladr_id': '7200000000000', 'region_cities': [{'city_name': 'Заводоуковск', 'city_kladr_id': '7200000400000'}, {'city_name': 'Ишим', 'city_kladr_id': '7200000300000'}, {'city_name': 'Тобольск', 'city_kladr_id': '7200000200000'}, {'city_name': 'Тюмень', 'city_kladr_id': '7200000100000'}, {'city_name': 'Ялуторовск', 'city_kladr_id': '7200000500000'}]}, {'region_name': 'Челябинская обл', 'region_kladr_id': '7400000000000', 'region_cities': [{'city_name': 'Аша', 'city_kladr_id': '7400200300000'}, {'city_name': 'Бакал', 'city_kladr_id': '7401700100000'}, {'city_name': 'Верхнеуральск', 'city_kladr_id': '7402900100000'}, {'city_name': 'Верхний Уфалей', 'city_kladr_id': '7400000200000'}, {'city_name': 'Еманжелинск', 'city_kladr_id': '7404400100000'}, {'city_name': 'Златоуст', 'city_kladr_id': '7400000400000'}, {'city_name': 'Карабаш', 'city_kladr_id': '7400000500000'}, {'city_name': 'Карталы', 'city_kladr_id': '7400700100000'}, {'city_name': 'Касли', 'city_kladr_id': '7400900100000'}, {'city_name': 'Катав-Ивановск', 'city_kladr_id': '7401000200000'}, {'city_name': 'Копейск', 'city_kladr_id': '7400000600000'}, {'city_name': 'Коркино', 'city_kladr_id': '7404500100000'}, {'city_name': 'Куса', 'city_kladr_id': '7403400100000'}, {'city_name': 'Кыштым', 'city_kladr_id': '7400000800000'}, {'city_name': 'Магнитогорск', 'city_kladr_id': '7400000900000'}, {'city_name': 'Миасс', 'city_kladr_id': '7400001000000'}, {'city_name': 'Миньяр', 'city_kladr_id': '7400200100000'}, {'city_name': 'Нязепетровск', 'city_kladr_id': '7403600100000'}, {'city_name': 'Озерск', 'city_kladr_id': '7400001100000'}, {'city_name': 'Пласт', 'city_kladr_id': '7404600100000'}, {'city_name': 'Сатка', 'city_kladr_id': '7401700200000'}, {'city_name': 'Сим', 'city_kladr_id': '7400200200000'}, {'city_name': 'Снежинск', 'city_kladr_id': '7400001300000'}, {'city_name': 'Трехгорный', 'city_kladr_id': '7400001400000'}, {'city_name': 'Троицк', 'city_kladr_id': '7400003600000'}, {'city_name': 'Усть-Катав', 'city_kladr_id': '7400001500000'}, {'city_name': 'Чебаркуль', 'city_kladr_id': '7400003500000'}, {'city_name': 'Челябинск', 'city_kladr_id': '7400000100000'}, {'city_name': 'Южноуральск', 'city_kladr_id': '7400001600000'}, {'city_name': 'Юрюзань', 'city_kladr_id': '7401000100000'}]}, {'region_name': 'Ханты-Мансийский Автономный округ - Югра АО', 'region_kladr_id': '8600000000000', 'region_cities': [{'city_name': 'Белоярский', 'city_kladr_id': '8600001300000'}, {'city_name': 'Когалым', 'city_kladr_id': '8600000200000'}, {'city_name': 'Лангепас', 'city_kladr_id': '8600000300000'}, {'city_name': 'Лянтор', 'city_kladr_id': '8600900200000'}, {'city_name': 'Мегион', 'city_kladr_id': '8600000400000'}, {'city_name': 'Нефтеюганск', 'city_kladr_id': '8600001400000'}, {'city_name': 'Нижневартовск', 'city_kladr_id': '8600001100000'}, {'city_name': 'Нягань', 'city_kladr_id': '8600000500000'}, {'city_name': 'Покачи', 'city_kladr_id': '8600000600000'}, {'city_name': 'Пыть-Ях', 'city_kladr_id': '8600000700000'}, {'city_name': 'Радужный', 'city_kladr_id': '8600001500000'}, {'city_name': 'Советский', 'city_kladr_id': '8600800100000'}, {'city_name': 'Сургут', 'city_kladr_id': '8600001000000'}, {'city_name': 'Урай', 'city_kladr_id': '8600000900000'}, {'city_name': 'Ханты-Мансийск', 'city_kladr_id': '8600000100000'}, {'city_name': 'Югорск', 'city_kladr_id': '8600001600000'}]}, {'region_name': 'Ямало-Ненецкий АО', 'region_kladr_id': '8900000000000', 'region_cities': [{'city_name': 'Губкинский', 'city_kladr_id': '8900000200000'}, {'city_name': 'Лабытнанги', 'city_kladr_id': '8900000300000'}, {'city_name': 'Муравленко', 'city_kladr_id': '8900000400000'}, {'city_name': 'Надым', 'city_kladr_id': '8900000500000'}, {'city_name': 'Новый Уренгой', 'city_kladr_id': '8900000600000'}, {'city_name': 'Ноябрьск', 'city_kladr_id': '8900000700000'}, {'city_name': 'Салехард', 'city_kladr_id': '8900000100000'}, {'city_name': 'Тарко-Сале', 'city_kladr_id': '8900400100000'}]}]
+2023-08-14 15:06:36,954 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-08-14 15:15:07,681 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-08-14 15:15:09,442 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-14 15:16:25,185 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-14 15:16:26,851 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-14 15:17:08,587 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-14 15:17:11,092 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-14 15:19:21,109 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-14 15:19:22,791 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-14 15:24:25,053 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-14 15:24:26,502 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-14 15:26:29,782 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-14 15:26:31,223 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-14 15:27:45,006 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-14 15:27:47,213 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-14 15:28:40,257 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-14 15:28:41,785 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-14 15:30:04,015 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-14 15:30:05,465 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-14 15:30:38,019 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-14 15:37:23,113 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 15:37:26,526 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 15:37:38,692 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 15:37:49,940 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(39) - registrate_builder
+2023-08-14 15:38:30,817 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(136) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Шамилин Андрей', 'PHONE': '89831448334', 'EMAIL': 'demko@mail.com', 'LEGAL_STATUS': 'ИП', 'COMPANY_NAME': 'ГорноСтрой', 'INN': '0000000000', 'category_list': ['покраска мебели', 'реставрация', 'отделка', 'кровельные работы', 'уборка', 'косметический ремонт', 'кухни']}
+2023-08-14 15:38:41,457 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(144) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Шамилин Андрей', 'PHONE': '89831448334', 'EMAIL': 'demko@mail.com', 'LEGAL_STATUS': 'ИП', 'COMPANY_NAME': 'ГорноСтрой', 'INN': '0000000000', 'category_list': ['покраска мебели', 'реставрация', 'кровельные работы', 'уборка', 'косметический ремонт', 'кухни'], 'category': 'отделка', 'my_categories': ['отделка']}
+2023-08-14 15:42:10,116 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 15:50:10,714 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 15:50:53,194 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(39) - registrate_builder
+2023-08-14 15:52:46,769 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(39) - registrate_customer
+2023-08-14 16:05:46,704 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 16:05:48,193 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 16:37:43,122 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 16:37:44,734 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 16:38:34,211 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 16:40:11,985 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 17:05:39,202 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 17:05:40,843 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 17:05:52,753 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 17:06:02,253 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 17:06:36,136 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(39) - registrate_customer
+2023-08-14 17:07:53,412 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 17:07:55,194 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 17:08:12,171 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(39) - registrate_customer
+2023-08-14 17:11:46,798 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 17:11:48,355 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 17:12:11,593 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 17:12:25,233 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 17:16:44,597 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(39) - registrate_customer
+2023-08-14 17:25:04,003 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 17:26:52,981 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 17:27:24,243 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 17:27:28,395 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 17:46:32,566 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 17:46:34,266 - [INFO] - app.bot - (bot.py).on_startup(14) - <coroutine object get_categories_data at 0x7fad8c8606c0>
+2023-08-14 17:46:34,274 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-14 17:47:05,084 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-14 17:47:08,875 - [INFO] - app.bot - (bot.py).on_startup(15) - [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]
+2023-08-14 17:47:08,876 - [INFO] - app.bot - (bot.py).on_startup(17) - the bot started working.
+2023-08-14 17:48:08,526 - [INFO] - app.bot - (bot.py).on_shutdown(22) - the bot stopped working.
+2023-08-14 17:48:11,855 - [INFO] - app.bot - (bot.py).on_startup(15) - [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]
+2023-08-14 17:48:11,857 - [INFO] - app.bot - (bot.py).on_startup(17) - the bot started working.
+2023-08-14 17:48:52,245 - [INFO] - app.bot - (bot.py).on_shutdown(22) - the bot stopped working.
+2023-08-14 17:48:56,089 - [INFO] - app.bot - (bot.py).on_startup(15) - [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]
+2023-08-14 17:48:56,091 - [INFO] - app.bot - (bot.py).on_startup(17) - the bot started working.
+2023-08-14 18:12:42,943 - [INFO] - app.bot - (bot.py).on_shutdown(22) - the bot stopped working.
+2023-08-14 18:12:52,895 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 18:13:39,094 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_customer
+2023-08-14 18:13:49,715 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 18:13:52,068 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 18:14:00,152 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 18:14:15,947 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 18:14:21,660 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_builder
+2023-08-14 18:14:41,524 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(136) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Вов', 'PHONE': '88888888888', 'EMAIL': '-', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-14 18:17:17,071 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-14 18:17:25,490 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-14 18:17:32,944 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_builder
+2023-08-14 18:17:54,960 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(136) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Влвлуо', 'PHONE': '89831448334', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Лврв', 'INN': '0000000000', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-14 18:18:00,594 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(144) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Влвлуо', 'PHONE': '89831448334', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Лврв', 'INN': '0000000000', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-14 18:18:03,468 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(144) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Влвлуо', 'PHONE': '89831448334', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Лврв', 'INN': '0000000000', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-15 10:44:44,024 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 10:44:49,847 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 10:46:33,023 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 10:46:34,430 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 10:47:03,502 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_builder
+2023-08-15 10:47:22,959 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(136) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Ккт', 'PHONE': '89888888888', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Двлу', 'INN': '0000000000', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-15 10:47:36,170 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(144) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Ккт', 'PHONE': '89888888888', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Двлу', 'INN': '0000000000', 'category_list': [{'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}], 'category': 'Капитальное строительство', 'my_categories': [939, 1017]}
+2023-08-15 10:47:37,500 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(144) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Ккт', 'PHONE': '89888888888', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Двлу', 'INN': '0000000000', 'category_list': [{'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}], 'category': 'Капитальное строительство', 'my_categories': [939, 1017]}
+2023-08-15 10:47:41,301 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(144) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Ккт', 'PHONE': '89888888888', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Двлу', 'INN': '0000000000', 'category_list': [{'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}], 'category': 'Капитальное строительство', 'my_categories': [939, 1017]}
+2023-08-15 10:47:47,535 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(144) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Ккт', 'PHONE': '89888888888', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Двлу', 'INN': '0000000000', 'category_list': [{'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}], 'category': 'Капитальное строительство', 'my_categories': [939, 1017]}
+2023-08-15 10:47:56,828 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(144) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Ккт', 'PHONE': '89888888888', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Двлу', 'INN': '0000000000', 'category_list': [{'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}], 'category': 'Капитальное строительство', 'my_categories': [939, 1017]}
+2023-08-15 10:48:09,246 - [INFO] - app.forms.registrate_user - (registrate_user.py).next_categories_page_callback(144) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Ккт', 'PHONE': '89888888888', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Двлу', 'INN': '0000000000', 'category_list': [{'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}], 'category': 'Капитальное строительство', 'my_categories': [939, 1017]}
+2023-08-15 10:57:47,466 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 10:57:52,321 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 11:09:10,767 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 11:10:52,117 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 11:11:24,279 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 11:11:25,490 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 11:12:04,732 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 11:12:06,349 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 12:52:31,268 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 12:52:32,983 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 12:52:35,155 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 12:52:43,334 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 13:07:24,845 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_builder
+2023-08-15 13:07:59,306 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(139) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Альаь алала  ададу  алалв', 'PHONE': '89831448334', 'EMAIL': 'Dkdkdj@jdjr.ru', 'LEGAL_STATUS': 'ИП', 'COMPANY_NAME': 'ИП Огонь', 'INN': '0000000000', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-15 13:16:02,998 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 13:16:04,501 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 13:17:16,424 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 13:17:18,219 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 13:17:30,524 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 13:17:41,886 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 13:19:45,991 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_customer
+2023-08-15 13:24:41,408 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_builder
+2023-08-15 13:26:13,182 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(139) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Твьвлулвькл', 'PHONE': '7828288273', 'EMAIL': '277272@mail.ru', 'LEGAL_STATUS': 'ИП', 'COMPANY_NAME': 'Heheh ddi', 'INN': '890604411348', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-15 15:05:02,091 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 15:05:04,452 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 18:27:38,052 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 18:27:39,990 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 18:31:25,802 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 18:31:27,138 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 18:34:11,590 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 18:34:12,823 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 18:34:51,030 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 18:34:53,479 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 18:36:52,232 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 18:36:53,391 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 18:37:06,192 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 18:40:18,601 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 18:40:52,024 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 18:40:53,827 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 18:41:09,919 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 18:45:56,526 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 18:48:05,935 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 18:48:07,105 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 18:49:53,296 - [INFO] - app.forms.register_application - (register_application.py).start_ad_form(94) - asdasdasdasdsad
+2023-08-15 18:52:00,818 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 18:52:02,306 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 18:52:49,262 - [INFO] - app.forms.register_application - (register_application.py).start_ad_form(94) - asdasdasdasdsad
+2023-08-15 18:54:32,806 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-15 18:54:34,458 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-15 22:26:28,158 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 12:11:55,211 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 13:28:49,203 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 13:29:03,140 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 14:04:19,784 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_customer
+2023-08-16 14:16:49,150 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 14:24:26,464 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 14:24:40,389 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 14:24:41,936 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 14:25:35,799 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_builder
+2023-08-16 14:28:49,025 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_builder
+2023-08-16 14:29:32,968 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(139) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Строитель Строительсвто с', 'PHONE': '89636352952', 'EMAIL': 'Jsnsj@mail.ru', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Jsjsjsjs', 'INN': '890604411348', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-16 14:35:22,053 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 14:35:24,571 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 14:35:31,165 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_builder
+2023-08-16 14:36:01,766 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(139) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Влвьаьька', 'PHONE': '89831448334', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Ущудулул', 'INN': '0000000000', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-16 14:36:18,508 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 14:37:40,799 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 14:39:41,743 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_customer
+2023-08-16 14:40:12,532 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 14:40:35,078 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 14:40:44,278 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 14:41:02,829 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 14:43:10,880 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_builder
+2023-08-16 14:45:06,442 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(139) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Бервинов Виталий а', 'PHONE': '89636352852', 'EMAIL': '-', 'LEGAL_STATUS': 'ИП', 'COMPANY_NAME': 'ИП Бервинов', 'INN': '890604411348', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-16 14:52:43,204 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 14:52:44,663 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 15:08:20,539 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 15:08:21,855 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 15:12:10,779 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 15:12:11,949 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 15:12:26,739 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 15:13:06,032 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 15:14:42,720 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 15:14:44,022 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 15:15:28,457 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_builder
+2023-08-16 15:15:37,964 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 15:15:40,234 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 15:17:37,896 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 15:17:39,122 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 15:18:28,365 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 15:18:30,016 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 15:18:34,318 - [INFO] - app.handlers.start - (start.py).choose_user_type_handler(40) - Я заказчик
+2023-08-16 15:19:18,269 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 15:19:19,689 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 15:19:25,008 - [INFO] - app.handlers.start - (start.py).choose_user_type_handler(40) - Я заказчик
+2023-08-16 15:19:33,107 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_customer
+2023-08-16 15:28:16,943 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 15:28:18,518 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 15:29:32,430 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 15:29:49,655 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 15:31:08,067 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 15:31:15,784 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 20:11:05,332 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 20:11:17,180 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 20:11:53,529 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_customer
+2023-08-16 20:15:56,448 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 20:16:10,951 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 20:18:05,857 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 20:18:07,808 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 20:19:48,274 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 20:19:50,005 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 20:20:07,512 - [INFO] - app.forms.register_application - (register_application.py).start_ad_form(91) - {"inline_keyboard": [[{"text": "Пропустить", "callback_data": "app_email_skip"}]]}
+2023-08-16 20:20:54,813 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 20:20:57,791 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 20:20:59,449 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 20:21:02,298 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 20:23:23,356 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 20:23:26,280 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 20:23:35,677 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 20:23:37,346 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 20:25:45,607 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 20:25:55,796 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 20:26:05,299 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_customer
+2023-08-16 20:29:36,024 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 20:29:39,033 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 20:32:35,916 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 20:32:45,194 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 21:35:55,260 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 21:35:56,699 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-16 21:36:00,631 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-16 21:36:02,536 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 09:54:39,839 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 10:27:45,090 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 10:29:29,220 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 10:32:05,873 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 10:32:19,538 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 10:34:48,178 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 10:35:50,960 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 10:35:52,692 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 10:36:24,664 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 10:37:38,882 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 10:38:46,670 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 10:38:48,105 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 10:47:37,723 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 10:49:03,649 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 10:50:05,118 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 10:50:06,939 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 10:50:30,453 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 10:50:49,831 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 10:52:00,502 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 10:52:02,346 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 10:52:21,756 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 10:54:14,634 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 10:54:31,822 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 10:58:07,404 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 10:58:26,322 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 11:02:06,091 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 11:04:01,407 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 11:04:02,726 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 11:05:22,668 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 11:05:23,930 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 11:05:58,201 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 11:26:01,561 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 11:26:02,423 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 11:26:15,788 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 11:28:56,673 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 11:28:58,201 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 11:29:10,799 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_customer
+2023-08-17 12:24:12,618 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 12:24:29,633 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 12:24:41,512 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_builder
+2023-08-17 12:25:03,414 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(158) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'FIO': 'Djdjrjrj', 'PHONE': '8983144834', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'Dndbdbbd', 'INN': '0000000000', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-17 12:30:09,951 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 12:30:11,234 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 12:33:36,112 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 12:33:37,675 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 12:34:04,487 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 12:34:06,654 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 12:34:32,027 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 12:34:34,099 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 12:34:56,852 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 12:43:39,188 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 12:46:40,245 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-17 12:46:49,657 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-17 13:11:55,565 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(40) - registrate_customer
+2023-08-18 14:27:44,111 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-18 14:27:52,785 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-18 17:43:13,542 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-18 17:43:15,707 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 12:54:58,672 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 12:59:27,690 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 12:59:31,798 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 12:59:43,263 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 13:02:58,674 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_builder
+2023-08-21 13:03:51,789 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(163) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'name': 'Кирилл', 'surname': 'Валов', 'PHONE': '89831448594', 'EMAIL': '-', 'LEGAL_STATUS': 'ЮР.ЛИЦО', 'COMPANY_NAME': 'СтройСеть', 'INN': '0000000000', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-21 13:05:44,562 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 13:05:46,187 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 13:06:00,418 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_builder
+2023-08-21 13:06:21,086 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(163) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'name': 'Олег', 'surname': 'Волков', 'PHONE': '89871523434', 'EMAIL': '-', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-21 13:07:23,284 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 13:07:24,473 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 13:07:32,925 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 13:07:46,701 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 13:08:47,830 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_builder
+2023-08-21 13:09:23,165 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 13:09:26,738 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 13:09:36,054 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_builder
+2023-08-21 13:50:08,471 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 13:50:09,730 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 13:51:32,264 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_builder
+2023-08-21 13:51:54,792 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(163) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'name': 'Алекс', 'surname': 'Мариин', 'PHONE': '89831448334', 'EMAIL': '-', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-21 13:53:34,362 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 13:53:35,659 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 13:53:36,250 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 13:53:46,933 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 13:53:58,391 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_builder
+2023-08-21 13:54:22,455 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(163) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'name': 'Аскель', 'surname': 'Масик', 'PHONE': '89871234332', 'EMAIL': '-', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-21 13:55:10,788 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 13:55:12,019 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 13:55:20,520 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 13:55:21,655 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 13:55:32,506 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_builder
+2023-08-21 13:55:58,307 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(163) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'name': 'Акимов', 'surname': 'Алексей', 'PHONE': '89831448334', 'EMAIL': '-', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-21 13:56:34,045 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 13:58:40,315 - [INFO] - app.bot - (bot.py).on_startup(14) - the bot started working.
+2023-08-21 13:58:58,351 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_builder
+2023-08-21 13:59:33,039 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(163) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'name': 'Громов', 'surname': 'Олег', 'PHONE': '89831448334', 'EMAIL': '-', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-21 14:00:06,217 - [INFO] - app.forms.registrate_user - (registrate_user.py).get_data_done(367) - {'success': False, 'errors': {'email': ['Значение «Email» не является правильным email адресом.']}}
+2023-08-21 14:28:21,318 - [INFO] - app.bot - (bot.py).on_shutdown(19) - the bot stopped working.
+2023-08-21 14:31:28,971 - [INFO] - app.bot - (bot.py).on_startup(17) - {'success': False, 'errors': {'email': ['Необходимо заполнить «Email».']}}
+2023-08-21 14:31:28,973 - [INFO] - app.bot - (bot.py).on_startup(19) - the bot started working.
+2023-08-21 14:31:41,297 - [INFO] - app.bot - (bot.py).on_shutdown(24) - the bot stopped working.
+2023-08-21 14:31:43,718 - [INFO] - app.bot - (bot.py).on_startup(17) - {'success': False, 'errors': {'email': ['Значение «Email» не является правильным email адресом.']}}
+2023-08-21 14:31:43,719 - [INFO] - app.bot - (bot.py).on_startup(19) - the bot started working.
+2023-08-21 14:33:02,261 - [INFO] - app.bot - (bot.py).on_shutdown(24) - the bot stopped working.
+2023-08-21 14:33:04,319 - [INFO] - app.bot - (bot.py).on_startup(17) - {'success': False, 'errors': {'email': ['Значение «Email» не является правильным email адресом.']}}
+2023-08-21 14:33:04,321 - [INFO] - app.bot - (bot.py).on_startup(19) - the bot started working.
+2023-08-21 14:33:18,260 - [INFO] - app.bot - (bot.py).on_shutdown(24) - the bot stopped working.
+2023-08-21 14:33:20,904 - [INFO] - app.bot - (bot.py).on_startup(17) - {'success': True, 'user': {'id': 74, 'firts_name': 'name', 'last_name': 'surname', 'email': 'test@test.test', 'status': 9, 'created_at': 1692614000, 'updated_at': 1692614000, 'company': '', 'phone': '89831448334', 'inn': None, 'type': 'fl', 'telegram_id': '1092131212'}}
+2023-08-21 14:33:20,906 - [INFO] - app.bot - (bot.py).on_startup(19) - the bot started working.
+2023-08-25 15:05:40,947 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-25 18:52:35,034 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-25 18:52:36,378 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-25 21:07:23,779 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-25 21:07:25,511 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-26 13:42:59,535 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-26 18:34:24,230 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-27 14:21:24,833 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-27 16:02:04,838 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 14:00:30,294 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 14:00:32,740 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 14:01:17,486 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_customer
+2023-08-28 14:07:37,016 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 14:08:09,375 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 14:09:47,092 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 14:09:58,787 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 14:10:58,932 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_builder
+2023-08-28 16:30:49,837 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:34:27,527 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:35:03,592 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_customer
+2023-08-28 16:36:27,436 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:36:29,385 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:36:36,528 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_customer
+2023-08-28 16:37:49,659 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:37:52,125 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:38:54,334 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:38:56,023 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:39:14,245 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:39:21,837 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:39:32,681 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(41) - registrate_customer
+2023-08-28 16:39:38,128 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:40:52,966 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:41:02,385 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-28 16:41:22,770 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:41:25,633 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:41:32,902 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-28 16:49:37,633 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:49:39,209 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:50:01,918 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:50:36,766 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:50:43,839 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:51:14,245 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:54:11,287 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-28 16:55:09,609 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:55:11,186 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:55:30,223 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:55:32,288 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:57:04,666 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:57:06,395 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:57:33,965 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:57:35,784 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:58:00,418 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 16:58:02,100 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 16:58:06,401 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-28 16:59:24,748 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_builder
+2023-08-28 16:59:46,447 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(163) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'name': 'П', 'surname': 'п', 'PHONE': '89831448334', 'EMAIL': '-', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-08-28 17:04:00,404 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 17:04:11,881 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 17:07:10,359 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 17:07:11,968 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 17:08:45,985 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 17:08:47,510 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 17:08:57,950 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 17:09:19,057 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 17:16:07,668 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-28 17:17:52,636 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 17:18:04,983 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 17:18:15,938 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-28 17:20:55,374 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 17:20:57,325 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-28 17:22:25,082 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-28 20:39:20,676 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-28 20:39:23,365 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:20:07,474 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-31 13:26:35,203 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:27:14,615 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-31 13:29:10,617 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-31 13:29:12,174 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:29:16,267 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-31 13:30:53,845 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-31 13:30:56,213 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:31:01,025 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-31 13:33:24,746 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-31 13:33:26,232 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:34:17,762 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-31 13:34:37,733 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-31 13:35:04,128 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:35:10,066 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-31 13:35:16,927 - [INFO] - app.forms.registrate_user - (registrate_user.py).get_phone(65) - {"phone_number": "79831448334", "first_name": "Dimonka", "last_name": "Limonka", "user_id": 735551549}
+2023-08-31 13:35:42,249 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-31 13:35:44,166 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:36:03,213 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-31 13:36:39,288 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-31 13:36:40,796 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:36:45,504 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-31 13:36:51,984 - [INFO] - app.forms.registrate_user - (registrate_user.py).get_phone(65) - 79831448334
+2023-08-31 13:37:35,831 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-31 13:37:37,423 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:37:44,692 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-31 13:37:51,860 - [INFO] - app.forms.registrate_user - (registrate_user.py).get_phone(65) - 79831448334
+2023-08-31 13:39:04,049 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-31 13:39:05,795 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:39:10,198 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-31 13:39:15,625 - [INFO] - app.forms.registrate_user - (registrate_user.py).get_phone(65) - 79831448334
+2023-08-31 13:39:20,186 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-31 13:41:32,332 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:41:39,601 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-31 13:42:31,345 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-31 13:42:32,954 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:42:38,584 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-08-31 13:43:40,664 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-08-31 13:47:58,591 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-08-31 13:48:11,698 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-09-02 08:15:45,035 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-02 08:15:47,000 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-02 08:15:48,248 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-02 08:16:03,085 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-02 08:16:03,231 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-02 08:16:08,402 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-02 08:16:18,079 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-02 08:16:30,624 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-02 13:07:06,222 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_builder
+2023-09-02 13:21:00,913 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(171) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'name': 'Иванов', 'surname': 'Иван', 'PHONE': '+79999999999', 'EMAIL': '-', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-09-02 15:21:22,090 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-02 15:33:09,749 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-02 15:33:26,360 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-02 15:33:48,776 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-09-02 15:34:24,612 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-02 15:35:07,955 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-02 15:35:19,513 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-09-02 15:35:41,006 - [INFO] - app.forms.registrate_user - (registrate_user.py).get_data_done(393) - {'success': False, 'errors': {'type': ['Выберите значение'], 'email': ['По данному адресу электронной почты уже проводилась регистрация']}}
+2023-09-02 15:36:22,131 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-02 15:36:36,420 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-02 15:36:43,686 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-09-02 15:38:00,887 - [INFO] - app.forms.registrate_user - (registrate_user.py).get_data_done(393) - {'success': False, 'errors': {'type': ['Выберите значение']}}
+2023-09-02 15:39:29,611 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-02 15:39:39,616 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-02 15:39:52,001 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_customer
+2023-09-02 15:40:41,266 - [INFO] - app.forms.registrate_user - (registrate_user.py).get_data_done(393) - {'success': True, 'user': {'id': 75, 'firts_name': 'Генадий', 'last_name': 'Фанов', 'email': 'smetana@kipr.com', 'status': 9, 'created_at': 1693654841, 'updated_at': 1693654841, 'company': '', 'phone': '89012281243', 'inn': None, 'type': 'fl', 'telegram_id': '735551549'}}
+2023-09-02 15:40:41,277 - [INFO] - app.forms.registrate_user - (registrate_user.py).get_data_done(396) - 75
+2023-09-02 15:41:49,029 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-04 14:49:20,711 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-04 14:49:25,607 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-04 14:49:52,243 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-04 15:03:54,819 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_builder
+2023-09-04 15:05:01,671 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(171) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'name': 'Иванов', 'surname': 'Иван', 'PHONE': '+79994704690', 'EMAIL': 'hdev3@stroyset.pto', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-09-04 15:12:28,952 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-04 15:14:35,634 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-14 18:37:50,376 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-14 20:11:48,573 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(42) - registrate_builder
+2023-09-14 20:42:07,838 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(171) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'name': 'Иванов', 'surname': 'Иван', 'PHONE': '+79999999999', 'EMAIL': '-', 'LEGAL_STATUS': 'ИП', 'COMPANY_NAME': 'ИП Иванов', 'INN': '186237789785', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-09-15 14:08:20,880 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-15 15:42:21,177 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-15 15:42:43,187 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-15 15:42:52,208 - [INFO] - app.bot - (bot.py).on_startup(16) - the bot started working.
+2023-09-15 15:53:33,017 - [INFO] - app.bot - (bot.py).on_shutdown(21) - the bot stopped working.
+2023-09-18 13:30:46,864 - [INFO] - app.bot - (bot.py).on_startup(15) - the bot started working.
+2023-09-18 14:30:43,565 - [INFO] - app.bot - (bot.py).on_shutdown(20) - the bot stopped working.
+2023-09-18 14:30:45,014 - [INFO] - app.bot - (bot.py).on_startup(15) - the bot started working.
+2023-09-18 17:01:06,405 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_form(44) - registrate_builder
+2023-09-19 12:18:41,765 - [INFO] - app.forms.registrate_user - (registrate_user.py).start_card_form(173) - FSMContextProxy state = <default>, data = {'USER_STATUS': 'registrate_builder', 'name': 'Иван', 'surname': 'Иванов', 'PHONE': '79136087907', 'EMAIL': '-', 'LEGAL_STATUS': 'ФИЗ.ЛИЦО', 'category_list': [{'B2B услуги': 939}, {'Архитектура и проектирование': 955}, {'Благоустройство территории и озеленение': 969}, {'Бытовые услуги': 981}, {'Инженерные работы и сети': 997}, {'Капитальное строительство': 1017}, {'Отделочные работы и ремонт': 1034}, {'Оформление и дизайн': 1064}, {'Продажа инструментов, оборудования и расходников': 1078}, {'Продажа стройматериалов': 1088}, {'Системы безопасности': 1115}, {'Системы отопления и обогрева': 1128}, {'Спецтехника': 1137}, {'Строительно-монтажные услуги': 1141}, {'B2B услуги': 176}, {'Архитектура и проектирование': 177}, {'Благоустройство территории и озеленение': 178}, {'Бытовые услуги': 179}, {'Инженерные работы и сети': 180}, {'Капитальное строительство': 181}, {'Отделочные работы и ремонт': 182}, {'Оформление и дизайн': 183}, {'Системы безопасности': 184}, {'Системы отопления и обогрева': 185}, {'Спецтехника': 186}, {'Строительно-монтажные услуги': 187}]}
+2023-09-19 13:11:17,623 - [INFO] - app.bot - (bot.py).on_shutdown(20) - the bot stopped working.
+2023-09-19 14:10:14,666 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-09-19 14:10:14,676 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-09-19 14:10:40,987 - [INFO] - app.bot - (bot.py).on_startup(18) - the bot started working.
+2023-09-19 14:10:50,829 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-09-19 14:11:01,928 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-09-19 14:11:01,942 - [INFO] - app.bot - (bot.py).on_shutdown(23) - the bot stopped working.
+2023-09-19 14:34:02,660 - [INFO] - app.bot - (bot.py).on_startup(19) - the bot started working.
+2023-09-19 14:34:44,054 - [INFO] - app.bot - (bot.py).on_shutdown(24) - the bot stopped working.
+2023-09-19 14:35:14,848 - [INFO] - app.bot - (bot.py).on_startup(19) - the bot started working.
+2023-09-19 14:44:38,420 - [INFO] - app.bot - (bot.py).on_shutdown(24) - the bot stopped working.
+2023-09-19 14:44:40,516 - [INFO] - app.bot - (bot.py).on_startup(19) - the bot started working.
+2023-09-19 14:44:42,633 - [INFO] - app.bot - (bot.py).on_shutdown(24) - the bot stopped working.
+2023-09-19 15:21:20,716 - [INFO] - app.bot - (bot.py).on_startup(17) - the bot started working.
+2023-09-19 16:26:23,019 - [INFO] - app.bot - (bot.py).on_shutdown(22) - the bot stopped working.
+2023-09-19 16:36:31,207 - [INFO] - app.bot - (bot.py).on_startup(17) - the bot started working.
+2023-09-19 16:36:42,065 - [INFO] - app.bot - (bot.py).on_shutdown(22) - the bot stopped working.
